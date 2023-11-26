@@ -185,11 +185,11 @@ const questions = [
       },
       {
         text: "Any of the throat letters",
-        correct: "false",
+        correct: "true",
       },
       {
         text: "غ",
-        correct: "true",
+        correct: "false",
       },
     ],
   },
