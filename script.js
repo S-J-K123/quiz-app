@@ -88,7 +88,7 @@ const questions = [
     answers: [
       {
         text: "Yes",
-        correct: "True",
+        correct: "true",
       },
       {
         text: "No",
