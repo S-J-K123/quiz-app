@@ -265,7 +265,7 @@ const questions = [
       },
       {
         text: "To Merge",
-        correct: "false",
+        correct: "true",
       },
       {
         text: "To Make Clear",
