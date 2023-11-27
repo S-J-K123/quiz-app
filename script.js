@@ -21,6 +21,27 @@ const questions = [
     ],
   },
   {
+    question: "What are the letters of Ghunnah?",
+    answers: [
+      {
+        text: "ك",
+        correct: "false",
+      },
+      {
+        text: "غ",
+        correct: "false",
+      },
+      {
+        text: "و",
+        correct: "false",
+      },
+      {
+        text: "م and ن",
+        correct: "true",
+      },
+    ],
+  },
+  {
     question: "What does Qalqalah mean?",
     answers: [
       {
@@ -232,6 +253,48 @@ const questions = [
       {
         text: "When it has a Fat-hah and Dummah",
         correct: "true",
+      },
+    ],
+  },
+  {
+    question: "What does Idghaam mean?",
+    answers: [
+      {
+        text: "To Hide",
+        correct: "false",
+      },
+      {
+        text: "To Merge",
+        correct: "false",
+      },
+      {
+        text: "To Make Clear",
+        correct: "false",
+      },
+      {
+        text: "To Bounce",
+        correct: "false",
+      },
+    ],
+  },
+  {
+    question: "How many catergories is Idghaam split into?",
+    answers: [
+      {
+        text: "Two",
+        correct: "true",
+      },
+      {
+        text: "Three",
+        correct: "false",
+      },
+      {
+        text: "Five",
+        correct: "false",
+      },
+      {
+        text: "Eight",
+        correct: "false",
       },
     ],
   },
