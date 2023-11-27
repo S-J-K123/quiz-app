@@ -15,7 +15,7 @@ const questions = [
         correct: "false",
       },
       {
-        text: "To Hold",
+        text: "Sound from nasal cavity",
         correct: "true",
       },
     ],
