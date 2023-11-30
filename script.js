@@ -488,7 +488,7 @@ const questions = [
     ],
   },
   {
-    question: "Chhose the correct example for Iqlaab applied to a Tanween",
+    question: "Choose the correct example for Iqlaab applied to a Tanween",
     answers: [
       {
         text: "قل هو الله أحد",
