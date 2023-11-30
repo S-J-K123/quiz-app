@@ -298,6 +298,216 @@ const questions = [
       },
     ],
   },
+  {
+    question: "What are the names of the categories of Idghaam?",
+    answers: [
+      {
+        text: "Idhaar",
+        correct: "false",
+      },
+      {
+        text: "Idghaam With Gunnah and Idghaam Without Ghunnah",
+        correct: "true",
+      },
+      {
+        text: "Ikhfah",
+        correct: "false",
+      },
+      {
+        text: "Ghunnah",
+        correct: "false",
+      },
+    ],
+  },
+  {
+    question: "What are the Idghaam letters?",
+    answers: [
+      {
+        text: "يرملون",
+        correct: "true",
+      },
+      {
+        text: "ينمو",
+        correct: "false",
+      },
+      {
+        text: "لر",
+        correct: "false",
+      },
+      {
+        text: "اوي",
+        correct: "false",
+      },
+    ],
+  },
+  {
+    question: "What are the letters of Idghaam with Ghunnah?",
+    answers: [
+      {
+        text: "لر",
+        correct: "false",
+      },
+      {
+        text: "ب",
+        correct: "false",
+      },
+      {
+        text: "يرملون",
+        correct: "false",
+      },
+      {
+        text: "ينمو",
+        correct: "true",
+      },
+    ],
+  },
+  {
+    question: "What are the letters of Idghaam without Ghunnah?",
+    answers: [
+      {
+        text: "لر",
+        correct: "true",
+      },
+      {
+        text: "ىنمو",
+        correct: "false",
+      },
+      {
+        text: "ق",
+        correct: "false",
+      },
+      {
+        text: "ب",
+        correct: "false",
+      },
+    ],
+  },
+  {
+    question: "What does Iqlaab mean?",
+    answers: [
+      {
+        text: "To Stretch",
+        correct: "false",
+      },
+      {
+        text: "To Bounce",
+        correct: "false",
+      },
+      {
+        text: "To Hide",
+        correct: "false",
+      },
+      {
+        text: "To Change",
+        correct: "true",
+      },
+    ],
+  },
+  {
+    question: "What is the letter of Iqlaab?",
+    answers: [
+      {
+        text: "ب",
+        correct: "true",
+      },
+      {
+        text: "ج",
+        correct: "false",
+      },
+      {
+        text: "د",
+        correct: "false",
+      },
+      {
+        text: "ط",
+        correct: "false",
+      },
+    ],
+  },
+  {
+    question: "What is Iqlaab applied to?",
+    answers: [
+      {
+        text: "Madd Letters",
+        correct: "false",
+      },
+      {
+        text: "Noon Saakinah and Tanween",
+        correct: "true",
+      },
+      {
+        text: "Ikhfah",
+        correct: "false",
+      },
+      {
+        text: "Heavy Letters",
+        correct: "false",
+      },
+    ],
+  },
+  {
+    question: "What does the Noon Saakin and Tanween change into when followed by a ب ?",
+    answers: [
+      {
+        text: "Sukoon",
+        correct: "false",
+      },
+      {
+        text: "ب",
+        correct: "false",
+      },
+      {
+        text: "Madd",
+        correct: "false",
+      },
+      {
+        text: "م",
+        correct: "true",
+      },
+    ],
+  },
+  {
+    question: "Choose the correct example for Iqlaab applied to Noon Saakinah",
+    answers: [
+      {
+        text: "من بعد",
+        correct: "true",
+      },
+      {
+        text: "من يعمل",
+        correct: "false",
+      },
+      {
+        text: "كفوا أحد",
+        correct: "false",
+      },
+      {
+        text: "من شرّ",
+        correct: "false",
+      },
+    ],
+  },
+  {
+    question: "Chhose the correct example for Iqlaab applied to a Tanween",
+    answers: [
+      {
+        text: "قل هو الله أحد",
+        correct: "false",
+      },
+      {
+        text: "أنْبئهم",
+        correct: "false",
+      },
+      {
+        text: "سميعا بصيرا",
+        correct: "true",
+      },
+      {
+        text: "منْ بعد",
+        correct: "false",
+      },
+    ],
+  },
 ];
 
 const questionElement = document.getElementById("question");
